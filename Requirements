@@ -1,0 +1,4 @@
+- Install Python version 3.8.10
+- Install OpenCV and Mediapip packages by this code:
+pip install mediapipe opencv-python
+-Upgrade pip if the previous code does not work
