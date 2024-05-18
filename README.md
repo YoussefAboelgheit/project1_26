@@ -1,7 +1,7 @@
 # project1_26
 AI Fitness Coach repo
 
-There are a lot of ways to run the project. One of them is this:
+There are a lot of ways to run the project. One of them is this way:
 -Click on (code) on GitHub in repo.
 -Copy the link.
 -Open cmd on your computer or git bash.
